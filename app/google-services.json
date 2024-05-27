@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1099144696617",
+    "project_id": "gudangkita-ca36d",
+    "storage_bucket": "gudangkita-ca36d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099144696617:android:8d048dfa714f34095c1d38",
+        "android_client_info": {
+          "package_name": "com.muhfikrih.gudangkita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099144696617-824itpfdknpvuj4en59eo346ucuu8ip9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhfikrih.gudangkita",
+            "certificate_hash": "c6a5d7bca6d99f3d4594c8546dee1c97621c1bf8"
+          }
+        },
+        {
+          "client_id": "1099144696617-usp8qckul95c5hb9p7ocvkclcmbj8k2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZveapaIow1XYwrliSnzCl21SSLjcYGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099144696617-usp8qckul95c5hb9p7ocvkclcmbj8k2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
